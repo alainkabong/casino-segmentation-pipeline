@@ -1,0 +1,7 @@
+artifacts/
+*.csv
+*.pkl
+*.xlsx
+__pycache__/
+.spyder-py3/
+*.log
