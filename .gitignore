@@ -5,3 +5,7 @@ artifacts/
 __pycache__/
 .spyder-py3/
 *.log
+SQL Preprocessing Queries.py
+System_Documentation.pdf
+figures/
+Old Code*/
